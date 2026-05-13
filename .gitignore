@@ -1,0 +1,20 @@
+# Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Environment
+.env
+application-local.yml
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
